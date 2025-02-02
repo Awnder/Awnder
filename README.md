@@ -28,10 +28,6 @@ I'm a software engineer proficient in Python and learning React/Next.js through 
 
 ![Awnder's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awnder&show_icons=true&theme=radical)
 
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Awnder&layout=compact&theme=radical)
-
 ## Fun Fact
 
 I make mead in my free time! It's like wine but instead of grapes it's made with honey! 
