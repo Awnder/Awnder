@@ -13,8 +13,9 @@ I'm a software engineer proficient in Python and learning React/Next.js through 
 1) [Popreel](https://popreel-eight.vercel.app): a TikTok clone created because TikTok was going to get banned lol
 
 ### Some other ones!
-1) [Roomventory](https://www.roomventory.site/) - your group inventory app with AI suggestions so you never forget a thing!
-2) [Lightcard](https://ai-flashcards-pi.vercel.app/) - light your path to success with AI-powered flashcards 
+1) I recently completed a data analysis internship where I went outside my role and built a RAG chatbot to onboard other interns! You can read about it [here](https://medium.com/@andrew.shiroma/from-template-to-langchain-rag-enabled-chatbot-4d9b564b60b4).
+2) [Roomventory](https://www.roomventory.site/) - your group inventory app with AI suggestions so you never forget a thing!
+3) [Lightcard](https://ai-flashcards-pi.vercel.app/) - light your path to success with AI-powered flashcards 
 
 ---
 ### 📫 Contact me:
